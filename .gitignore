@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Temporary files
+tmp*/
+*.tmp.*
+
+# Output files
+output/
+*.stl
+
+# Editor files
+.*.swp
+*~
